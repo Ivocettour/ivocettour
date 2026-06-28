@@ -48,7 +48,7 @@ I'm a fourth-year **Information Systems Engineering student at Universidad Tecno
 A full-stack catalog and administration platform for a custom furniture business. It includes project and category management, image uploads, customer inquiries and an administrative dashboard.
 
 **Technologies:** Next.js, React, TypeScript, AWS and cloud databases  
-**Repository:** [nid-muebles](https://github.com/Ivocettour/nid-muebles)
+**Repository:** [nid-muebles](https://github.com/Ivocettour/nid-muebles1)
 
 ### 🎾 Pádel Tournament Management
 
