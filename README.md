@@ -55,11 +55,6 @@ A practical project focused on continuous integration, automated delivery, Git w
 
 **Repository:** [ci-cd-demo](https://github.com/Ivocettour/ci-cd-demo)
 
-### 👗 Online Clothing Catalog
-A responsive product catalog for a clothing brand, with product details, prices, sizes, images and Firebase-based administration without requiring code changes.
-
-**Technologies:** JavaScript, Firebase, HTML and CSS  
-**Repository:** [tienda-mica](https://github.com/Ivocettour/tienda-mica)
 
 ## Additional projects and case studies
 
