@@ -1,74 +1,90 @@
 <h1 align="center">Hi, I'm Ivo Cettour 👋</h1>
-<h3 align="center">Junior Full Stack Developer & Systems Engineering Student</h3>
+<h3 align="center">Junior Full Stack Developer · Information Systems Engineering Student</h3>
 
 <p align="center">
-  <a href="mailto:ivocettour2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ivocettour">
-    <img src="https://img.shields.io/badge/GitHub-Ivocettour-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:ivocettour2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ivocettour"><img src="https://img.shields.io/badge/GitHub-Ivocettour-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ivocettour&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## About me
 
-I'm a fourth-year **Information Systems Engineering student at Universidad Tecnológica Nacional (UTN)** in Argentina, focused on building practical web applications and improving my skills through real projects.
+I'm a fourth-year **Information Systems Engineering student at Universidad Tecnológica Nacional (UTN)** in Argentina. I enjoy turning real needs into practical software, especially web applications, REST APIs, administration panels and cloud-connected systems.
 
-- 💻 Interested in **Full Stack, Frontend and Backend development**
-- 🚀 Experience creating web applications, REST APIs and administration dashboards
-- ☁️ Familiar with cloud services, deployment and database integration
-- 🧠 Currently improving my knowledge of **Next.js, React, Django, AWS and CI/CD**
-- 🌎 Open to junior developer opportunities and international teams
+- 💻 Focused on **Full Stack, Frontend and Backend development**
+- 🚀 Experience building complete applications from requirements to deployment
+- ☁️ Familiar with cloud infrastructure, databases, authentication and file storage
+- 🧩 Interested in software architecture, APIs, CI/CD and collaborative development
+- 🌎 Open to junior roles, internships, remote opportunities and international teams
 - 🗣️ Native Spanish speaker with intermediate English
 
 ## Tech stack
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend technologies" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend technologies" /></p>
 
 ### Backend and databases
+<p><img src="https://skillicons.dev/icons?i=python,django,nodejs,firebase,postgres,mysql" alt="Backend and database technologies" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,firebase,postgres,mysql" alt="Backend and database technologies" />
-</p>
-
-### Tools and cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,vscode" alt="Tools and cloud technologies" />
-</p>
+### Cloud, DevOps and tools
+<p><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel" alt="Cloud and development tools" /></p>
 
 ## Featured projects
 
 ### 🪑 NID — Custom Furniture Platform
+A production-oriented full-stack platform for a custom furniture business. It includes a public catalog, project and category management, image uploads, customer inquiry forms, an administration panel and dashboard metrics.
 
-A full-stack catalog and administration platform for a custom furniture business. It includes project and category management, image uploads, customer inquiries and an administrative dashboard.
-
+**Highlights:** CRUD operations, authentication, media management, contact workflow, responsive UI and AWS deployment.  
 **Technologies:** Next.js, React, TypeScript, AWS and cloud databases  
-**Repository:** [nid-muebles](https://github.com/Ivocettour/nid-muebles1)
+**Repository:** [nid-muebles1](https://github.com/Ivocettour/nid-muebles1)
 
-### 🎾 Pádel Tournament Management
-
-A web application designed to manage tournament registrations, categories, groups, schedules, matches and results. It also includes an administrator interface and CSV export functionality.
+### 🎾 Pádel Tournament Management Platform
+A web application for managing tournament registrations, player categories, groups, schedules, courts, round-robin matches, results and winners. It includes an administrator interface, public views and CSV export.
 
 **Technologies:** JavaScript, Firebase, HTML and CSS  
 **Repository:** [pingui](https://github.com/Ivocettour/pingui)
 
 ### ⚙️ Operating Systems Simulator
-
-An academic simulator focused on operating-system concepts such as process scheduling and memory-management algorithms.
+An academic simulator focused on operating-system concepts, including CPU scheduling, process queues and memory-allocation algorithms such as SRTF and Best Fit.
 
 **Technologies:** Python  
 **Repository:** [Simulador-Sistemas-Operativos](https://github.com/Ivocettour/Simulador-Sistemas-Operativos)
 
 ### 🔄 CI/CD Demo
-
-A practical project focused on continuous integration, continuous delivery and collaborative development workflows.
+A practical project focused on continuous integration, automated delivery, Git workflows, testing and collaborative software-development practices.
 
 **Repository:** [ci-cd-demo](https://github.com/Ivocettour/ci-cd-demo)
+
+### 👗 Online Clothing Catalog
+A responsive product catalog for a clothing brand, with product details, prices, sizes, images and Firebase-based administration without requiring code changes.
+
+**Technologies:** JavaScript, Firebase, HTML and CSS  
+**Repository:** [tienda-mica](https://github.com/Ivocettour/tienda-mica)
+
+## Additional projects and case studies
+
+These projects reflect academic work, prototypes and systems I have designed or developed while learning software engineering:
+
+- **Purchasing and Shipping API:** Django REST Framework endpoints for orders, shipping, logistics and stock integration.
+- **Software Employment Market Analyzer:** collection and analysis of technology job postings by role, modality, language, skills and cloud platform.
+- **Artify Event Platform:** use cases, CRC cards, sequence diagrams and design patterns such as Proxy and Iterator.
+- **Teacher Evaluation System:** evaluation and consultation workflows modeled with UML and interaction diagrams.
+- **Automotive Appointment System:** domain modeling and CRC-based object-oriented design.
+- **Equestrian Club Management:** analysis and modeling of members, activities and administrative processes.
+- **Library Management System:** lending, catalog and user-management workflows.
+- **Procurement Portal:** API design, order-status handling and coordination between purchasing, stock and logistics.
+- **Operating Systems Exercises:** scheduling algorithms, process simulation, queues and fixed-partition memory allocation.
+- **Job Search and Data Analysis Tools:** Python, scraping, Selenium, Playwright, Streamlit and data-processing experiments.
+- **Architecture and Software Engineering Work:** UML, GRASP, design patterns, requirements engineering, testing and architecture documentation.
+
+## What I can contribute
+
+- Building responsive web interfaces and administration dashboards
+- Designing and consuming REST APIs
+- Implementing CRUD workflows, authentication and database integrations
+- Deploying applications and working with cloud services
+- Translating requirements into use cases, models and working software
+- Collaborating through Git, GitHub, pull requests and CI/CD workflows
 
 ## GitHub statistics
 
@@ -77,37 +93,25 @@ A practical project focused on continuous integration, continuous delivery and c
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivocettour&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
-## Current goals
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ivocettour&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-- Build production-ready full-stack applications
-- Improve automated testing and software architecture skills
-- Gain professional experience within a collaborative development team
-- Continue learning cloud infrastructure and deployment practices
+## Currently improving
+
+- Production-ready Next.js and React applications
+- Backend development with Django and REST APIs
+- Automated testing and maintainable software architecture
+- AWS infrastructure, deployment and monitoring
+- Technical English and communication within international teams
 
 ## Contact
 
-I'm open to junior software-development opportunities, internships and collaborations.
+I'm open to **junior software-development roles, internships, freelance projects and collaborations**.
 
 📧 **Email:** [ivocettour2@gmail.com](mailto:ivocettour2@gmail.com)  
 💼 **GitHub:** [github.com/Ivocettour](https://github.com/Ivocettour)
 
 ---
 
-<p align="center">
-  <em>Always learning, building and improving.</em>
-</p>
-
-<!--
-**Ivocettour/ivocettour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><em>Always learning, building and improving.</em></p>
